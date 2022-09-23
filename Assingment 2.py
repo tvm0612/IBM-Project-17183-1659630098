@@ -1,3 +1,4 @@
+
 import random
 while(True):
     temp=random.randrange(0,100)
