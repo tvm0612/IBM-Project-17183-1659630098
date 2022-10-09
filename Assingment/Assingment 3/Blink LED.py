@@ -1,3 +1,4 @@
+#BLINKING OF LED FOR RASPBERRY Pi
 import RPi.GPIO as GPIO 
 from time import sleep 
 
